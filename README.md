@@ -9,6 +9,7 @@ A wearable AI note-taker for professionals who spend the day in meetings, built 
 | Path | Contents |
 | --- | --- |
 | [docs/01-direction-and-prototype-plan.md](docs/01-direction-and-prototype-plan.md) | Agreed direction, decisions, prototype approach and plan |
+| [docs/02-prototype-component-stack.md](docs/02-prototype-component-stack.md) | Component stack, parts list and build steps for the four prototype units |
 | [design/concept-sheets/](design/concept-sheets/) | Concept sheets for the target design. Open the HTML files in a browser. |
 
 ## Concept sheets

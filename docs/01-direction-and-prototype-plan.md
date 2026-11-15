@@ -70,7 +70,7 @@ The concept sheets for the target design are in [design/concept-sheets](../desig
 ## Plan
 
 1. **Concept sheets for the target design.** Views, dimensions, interface callouts, the three carriers, and wear ergonomics. Done, first pass.
-2. **Component stack for the prototype.** Board, cell, button, slider and LED, with a parts list that can be bought in India.
+2. **Component stack for the prototype.** Board, cell, button, slider and LED, with a parts list that can be bought in India. Done, see [02-prototype-component-stack.md](02-prototype-component-stack.md).
 3. **Prototype enclosure.** Printable 3D model sized around that stack, in the Tab shape.
 4. **Product and platform spec.** Device, phone app, device-to-phone sync, cloud backend, and the desktop capture app.
 5. **Build four units.** Print, assemble, flash the open firmware.
