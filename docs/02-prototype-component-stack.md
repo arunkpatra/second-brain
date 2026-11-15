@@ -55,7 +55,7 @@ Quantities cover four units plus one spare set. Prices marked "est." are my esti
 | Slide switch | SS12D00-G3, 3 mm | 10 | 10 to 20 est. | Any component store |
 | Tactile button | 6 × 6 mm, low profile, for Build B | 5 | 5 to 10 est. | Any component store |
 | Wire | 28 AWG silicone, red and black | 1 m each | 50 est. | Any component store |
-| Magnets | Neodymium disc 8 × 1.5 mm, for the carrier mount | 10 | 10 to 20 est. | Any component store |
+| Magnets | Neodymium disc 8 × 1 mm, for the carrier mount | 10 | 10 to 20 est. | Any component store |
 | Shell | Resin or nylon print, two halves | 5 sets | 300 to 800 est. | Print service |
 
 **Budget:** about ₹15,000 to ₹18,000 for everything, most of it the boards. This is an estimate.
