@@ -6,12 +6,19 @@ A two-part printable shell for the Stage 0 units. It keeps the target design's 2
 | --- | --- |
 | ![Front view](out/preview-iso.svg) | ![Back view](out/preview-iso-back.svg) |
 
+## View it in 3D
+
+- **In a browser:** open [out/tab-proto-assembled.stl](out/tab-proto-assembled.stl) or [out/tab-proto-exploded.stl](out/tab-proto-exploded.stl) on GitHub. GitHub shows STL files in a 3D viewer you can rotate and zoom.
+- **On a Mac:** select any `.stl` file in Finder and press Space, or open it in Preview.
+- **To measure or edit:** open the `.step` files in a CAD tool such as FreeCAD or Fusion.
+
 ## Files
 
 | File | Use |
 | --- | --- |
 | `enclosure.py` | Parametric source (CadQuery). Edit the values at the top and re-run. |
 | `out/tab-proto-front.stl`, `out/tab-proto-back.stl` | Upload these to a print service |
+| `out/tab-proto-assembled.stl`, `out/tab-proto-exploded.stl` | For viewing only. Do not print these. |
 | `out/tab-proto-front.step`, `out/tab-proto-back.step` | For editing in any CAD tool |
 
 To regenerate: `pip install cadquery && python3 enclosure.py`

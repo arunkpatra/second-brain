@@ -2,14 +2,17 @@
 
 A wearable AI note-taker for professionals who spend the day in meetings, built for Indian users first. A small capsule captures conversations, a phone app syncs them, and a cloud backend turns them into daily and weekly summaries.
 
-**Status:** hobby project. Concept design only. No hardware built yet.
+**Status:** hobby project. Design and spec first passes are done. No hardware built yet. See [STATUS.md](STATUS.md).
 
 ## What is here
 
 | Path | Contents |
 | --- | --- |
+| [STATUS.md](STATUS.md) | Where every phase and deliverable stands, next actions, risks and decisions |
+| [docs/PLAN.md](docs/PLAN.md) | The seven phases, their deliverables and exit tests |
 | [docs/01-direction-and-prototype-plan.md](docs/01-direction-and-prototype-plan.md) | Agreed direction, decisions, prototype approach and plan |
 | [docs/02-prototype-component-stack.md](docs/02-prototype-component-stack.md) | Component stack, parts list and build steps for the four prototype units |
+| [docs/03-product-and-platform-spec.md](docs/03-product-and-platform-spec.md) | What the device, phone app, sync, cloud backend and desktop capture app must do |
 | [hardware/enclosure/](hardware/enclosure/) | Printable two-part prototype shell: parametric source, STL and STEP files |
 | [design/concept-sheets/](design/concept-sheets/) | Concept sheets for the target design. Open the HTML files in a browser. |
 
